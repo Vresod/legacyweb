@@ -8,3 +8,6 @@ Contains my minecraft mods folder, my social media icon, and my minecraft saves 
 Contains a few games made by me and eventually a bunch of other people. Credit to [Scratch](https://scratch.mit.edu) for the game creation tool.
 ### Drawings
 The newest section! I put random drawings in here along with their title. Most will be clickable, going to their facebook link.
+## Credits
+### [W3Schools](https://w3schools.com)
+Thanks to W3Schools for their HTML and CSS tutorials, as well as their [Try it Editor](https://www.w3schools.com/code/tryit.asp?filename=FU8LPIM0L0QM).
