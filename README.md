@@ -7,7 +7,7 @@ My personal website!
 
 ### Home Page
 
-This part of the site is where you land when you go to [the site](https://vresod.github.io). Not alot much can be said except for the inclusion of a small Q&A.
+This part of the site is where you land when you go to [the site](https://vresod.github.io). Not  much can be said except for the inclusion of a small Q&A.
 
 ### Downloads
 
@@ -26,3 +26,6 @@ The newest section! I put random drawings in here along with their title. Most w
 ### [W3Schools](https://w3schools.com)
 
 Thanks to W3Schools for their HTML and CSS tutorials, as well as their [Try it Editor](https://www.w3schools.com/code/tryit.asp?filename=FU8LPIM0L0QM).
+### [Scratch](https://www.scratch.mit.edu)
+
+Thanks go to Scratch for the game creation tool!
