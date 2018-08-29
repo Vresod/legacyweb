@@ -41,6 +41,18 @@
 	<head>
 		<title>You 404'd, nerd.</title>
 		<link rel="icon" href="/images/favicon.png">
+		<script>
+			// Register the service worker
+		if ('serviceWorker' in navigator) {
+			navigator.serviceWorker.register('/service-worker.js').then(function(registration) {
+    		// Registration was successful
+    		console.log('ServiceWorker registration successful with scope: ', registration.scope);
+		}).catch(function(err) {
+    		// registration failed :(
+    			console.log('ServiceWorker registration failed: ', err);
+    		});
+		}
+		</script>
 	</head>
 
 	<body>
@@ -48,8 +60,9 @@
 		<br>
 		<br>
 		<br>
-		<h1>Congratulations! You 404'd the site!</h1>
-		<p>Click <a href="/">here</a> to go home.</p>
+		<h1>Whoops! Something broke.</h1>
+		<p>This is the error page for a <span title="404; Page Not Found">404</span> and an offline page.</p>
+		<p>Either check your internet connection or click <a href="/">here</a> to go home.
 	</body>
 
 </html>
