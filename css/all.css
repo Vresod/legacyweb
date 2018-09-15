@@ -46,3 +46,9 @@ table {
 	text-align: center;
 	margin: 0 auto
 }
+
+body {
+	background-color: #5f676d;
+	margin: 0;
+	font-family: Verdana, Helvetica, sans-serif
+}
