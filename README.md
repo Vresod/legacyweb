@@ -1,7 +1,7 @@
 
 # vresod.github.io
 
-My personal website!
+My personal website! Contains a whole buncha stuff about me.
 
 ## Site Facts
 
