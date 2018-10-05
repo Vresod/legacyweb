@@ -1,5 +1,5 @@
 
-# vresod.github.io
+# legacyweb
 
 My personal website! Contains a whole buncha stuff about me.
 
@@ -33,3 +33,8 @@ Thanks to W3Schools for their HTML and CSS tutorials, as well as their [Try it E
 ### [Scratch](https://www.scratch.mit.edu)
 
 Thanks go to Scratch for the game creation tool!
+
+## Name History
+
+1. vresod.github.io
+2. legacyweb
