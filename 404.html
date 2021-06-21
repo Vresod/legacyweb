@@ -2,20 +2,8 @@
 <html>
 	<head>
 		<title>You 404'd, nerd.</title>
-		<link rel="icon" href="/images/favicon.png">
+		<link rel="icon" href="../images/favicon.png">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<script>
-			// Register the service worker
-		if ('serviceWorker' in navigator) {
-			navigator.serviceWorker.register('/js/service-worker.js').then(function(registration) {
-    		// Registration was successful
-    		console.log('ServiceWorker registration successful with scope: ', registration.scope);
-		}).catch(function(err) {
-    		// registration failed :(
-    			console.log('ServiceWorker registration failed: ', err);
-    		});
-		}
-		</script>
 		<style>
 			body {
 				background-color: darkcyan;
